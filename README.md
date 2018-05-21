@@ -17,7 +17,7 @@ yarn add bulma
 bower install bulma
 ```
 4) CDN
-<br>
+
 https://cdnjs.com/libraries/bulma
 
 ***
