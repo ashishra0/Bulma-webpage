@@ -5,17 +5,17 @@
 #### Installation
 
 1) With npm
-'''bash
+```bash
 npm install bulma
-'''
+```
 2) With yarn
-'''bash
+```bash
 yarn add bulma
-'''
+```
 3) With bower
-'''bash
+```bash
 bower install bulma
-'''
+```
 4) CDN
 <br>
 https://cdnjs.com/libraries/bulma
